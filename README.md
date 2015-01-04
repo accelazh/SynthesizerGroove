@@ -1,0 +1,1 @@
+A common library to compose midi music. Written to support MidiPiano project. Code in my school time.
